@@ -23,7 +23,7 @@ Export 2KML is a QGIS 3.x plugin that allows you to batch‐export any combinati
 ## Requirements 
 
 - QGIS 3.x (3.0 or later)
-- GDAL with libkml support (optional, but recommended for native KML/KMZ writing).  **[Not Required for this version]**
+- GDAL with libkml support (optional, but recommended for native KML/KMZ writing).  **[Not Required for this version]** <br>
   To verify on macOS/Linux/Windows, run:
   ```bash
   ogrinfo --formats | grep -i libkml
