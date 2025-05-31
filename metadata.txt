@@ -1,0 +1,19 @@
+[general]
+name=Export 2KML
+qgisMinimumVersion=3.0
+description=Batch‐export vector and raster layers into a single KML or KMZ with QGIS styling
+version=0.1
+author=Mirjan Ali Sha
+email=mastools.help@gmail.com
+about=Export 2KML lets you pick any combination of vector and raster layers (with QGIS styling) and generate a single KML (if only vectors) or KMZ (if rasters are involved). Rasters are rendered into opaque PNG overlays so Google Earth will show them properly.
+tracker=https://github.com/yourusername/export2kml/issues
+repository=https://github.com/yourusername/export2kml
+
+hasProcessingProvider=no
+tags=kml, kmz, export, raster, vector, QGIS, plugin
+homepage=https://github.com/yourusername/export2kml/wiki
+category=Vector
+icon=export2kml.png
+experimental=False
+deprecated=False
+server=False

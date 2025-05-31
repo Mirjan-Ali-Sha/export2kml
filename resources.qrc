@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/save_attributes" >
+        <file>export2kml.png</file>
+    </qresource>
+</RCC>
